@@ -1,0 +1,6 @@
+streamlit
+streamlit_lottie
+tensorflow
+numpy
+PTL
+requests
